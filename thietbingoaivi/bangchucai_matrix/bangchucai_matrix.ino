@@ -4,7 +4,7 @@
  * Sử dụng thư viện LedControl
  * 
  * Kết nối MAX7219:
- *   DIN -> Pin 13
+ *   DIN -> Pin 12
  *   CS  -> Pin 12
  *   CLK -> Pin 11
  *   VCC -> 5V
